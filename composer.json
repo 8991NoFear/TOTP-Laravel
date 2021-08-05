@@ -1,0 +1,17 @@
+{
+    "name": "binhld/totp-laravel",
+    "description": "TOTP Authentication Library for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BinhLD\\TOTPLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "8991NoFear",
+            "email": "binh.ld172971@sis.hust.edu.vn"
+        }
+    ]
+}
